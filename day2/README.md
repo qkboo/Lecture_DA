@@ -10,7 +10,7 @@
     - Pandas Dataframe: https://wikidocs.net/4366
 7. [Pandas-Cookbook1-Indexing.ipynb](notebook/Pandas-Cookbook1-Indexing.ipynb)
 8. [Pandas-Cookbook2_groupby연습.ipynb](notebook/Pandas-Cookbook2_groupby연습.ipynb)
-    - 'data/marcap-2020.csv.gz'
+    - 채팅에 공유한 링크: 'data/marcap-2020.csv.gz'
 9. [ex) Pandas-기본통계](notebook/4-05exPandas-기본통계.ipynb)
     - [data2.zip](data2.zip)
     - 'data/지점별_일일_판매량.csv'
