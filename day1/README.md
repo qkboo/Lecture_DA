@@ -134,7 +134,7 @@ Desktop 개발환경
 
 # Notebook 파일
 
-- [01-00개발환경.ipynb](notebook/01-00개발환경.ipynb)
+- [01-00개발환경.ipynb](notebook/01-00개발환경.ipynb)
 - [01-01JupyterNotebook.ipynb](notebook/01-01JupyterNotebook.ipynb)
 - [01-03Basic_A.ipynb](notebook/01-03Basic_A.ipynb)
 - [01-04Function_Class_A.ipynb](notebook/01-04Function_Class_A.ipynb)
