@@ -18,3 +18,6 @@
     - 'data/지점별_판매량-2019년.csv' 
     - 'data/아이스크림판매량_기온.csv'
 
+# HTTP Crawling
+
+1. [HTTP_참고.zip](HTTP_참고.zip) 파일 자료
