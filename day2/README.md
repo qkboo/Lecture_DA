@@ -20,4 +20,6 @@
 
 # HTTP Crawling
 
+1. [데이터크롤링1-02request](notebook/5.데이터크롤링1-02requests.ipynb)
+2. [데이터크롤링2-02간단한크롤링_1](notebook/데이터크롤링2-02간단한크롤링_1.ipynb)
 1. [HTTP_참고.zip](HTTP_참고.zip) 파일 자료
