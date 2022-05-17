@@ -5,5 +5,5 @@
 
 1. [Day1](day1/README.md)
    - Python, NumPy
-2. Day2
-   - Crawling, Pandas
+2. [Day2](day2/README.md)
+   - Pandas, 기초통계, (Crawling)
