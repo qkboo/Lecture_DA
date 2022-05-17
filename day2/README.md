@@ -9,7 +9,7 @@
     - Pandas Series: https://wikidocs.net/4364
     - Pandas Dataframe: https://wikidocs.net/4366
 7. [Pandas-Cookbook1-Indexing.ipynb](notebook/Pandas-Cookbook1-Indexing.ipynb)
-8. [Pandas-Cookbook2_groupby연습.ipynb](notebook/Pandas-Cookbook2_groupby연습.ipynb)
+8. [Pandas-Cookbook2_groupby연습.ipynb](notebook/Pandas-Cookbook2_groupby연습.ipynb)
     - 채팅에 공유한 링크: 'data/marcap-2020.csv.gz'
 9. [ex) Pandas-기본통계](notebook/4-05exPandas-기본통계.ipynb)
 10. [ex) Pandas,Matplotlib-주택_통계분석](notebook/4-06exPandas,Matplotlib-주택_통계분석.ipynb)
