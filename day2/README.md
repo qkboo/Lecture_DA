@@ -13,7 +13,7 @@
     - 채팅에 공유한 링크: 'data/marcap-2020.csv.gz'
 9. [Pandas-기본통계](notebook/2-07exPandas-기본통계.ipynb)
 10. EDA
-    - [Data Preprocessing in 7 Steps with Python](notebook/4-01Data Preprocessing in 7 Steps with Python.pdf)
+    - [Data Preprocessing in 7 Steps with Python](notebook/4-01Data_Preprocessing_in_7_Steps_with_Python.pdf)
     - [EDA - 편의점시급 분석](notebook/4-03EDA-편의점시급-A.ipynb)
 13. [data2.zip](data2.zip)
     - 'data/convenient_store.csv'
